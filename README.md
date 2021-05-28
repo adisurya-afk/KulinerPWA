@@ -1,2 +1,2 @@
 # KulinerPWA
-# kulinerpwa.000webhostapp.com
+# https://kulinerpwa.000webhostapp.com/
